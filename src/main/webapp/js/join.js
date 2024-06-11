@@ -9,7 +9,7 @@
 		return false; 
 	}
 	if(document.joinForm.userPW.value.length < 6) {
-		alert("아이디는 6자 이상이어야 합니다.");
+		alert("비밀번호는 6자 이상이어야 합니다.");
 		document.joinForm.userPW.focus();
 		return false; 
 	}

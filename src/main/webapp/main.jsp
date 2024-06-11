@@ -8,8 +8,7 @@
 </head>
 <body>
 	<center>
-	<img src="img/jsp.jpg" width="500">
-	<br><br>
+	<img src="img/jsp.jpg" width="500"><br><br>
 	<table border="0">
 		<tr>
 			<td>
@@ -18,14 +17,12 @@
 				</form>	
 			</td>
 			<td>
-				<form action="signup">
+				<form action="signup.jsp">
 					<input type="submit" value="사용자 접속하기 ▶">
 				</form>	
 			</td>	
 		</tr>	
 	</table>	
 	</center>
-	
-	
 </body>
 </html>
