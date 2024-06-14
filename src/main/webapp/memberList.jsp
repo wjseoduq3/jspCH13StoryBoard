@@ -9,9 +9,6 @@
 </head>
 <body>
 	<%
-	
-	
-	
 		if (session.getAttribute("adminID") == null || !(session.getAttribute("adminID").equals("space"))) {
 			response.sendRedirect("login.jsp");
 		}	
